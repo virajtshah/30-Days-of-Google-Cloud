@@ -1,4 +1,4 @@
-![Banner](https://github.com/virajtshah/30-Days-of-Google-Cloud/tree/main/assets/banner.png)
+![Banner](https://github.com/virajtshah/30-Days-of-Google-Cloud/blob/main/assets/banner.png)
 
 This repository contains the some important information related to **30 Days of Google Cloud** program as well as some of the solutions to the **Challenge Labs**!
 
@@ -19,7 +19,7 @@ Solutions to the Challenge Labs of the **Data Science & Machine Learning Track**
 
 ## Program Syllabus
 
-![](https://github.com/virajtshah/30-Days-of-Google-Cloud/tree/main/assets/badges.png)
+![](https://github.com/virajtshah/30-Days-of-Google-Cloud/blob/main/assets/badges.png)
 
 * Track 1: Cloud Engineering Track
 
